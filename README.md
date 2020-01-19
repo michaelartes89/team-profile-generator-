@@ -10,7 +10,7 @@
     TO use this application: download all files, install required packages, and run app.js in terminal, the html file will open in the browser and be added to output folder. 
 ## ScreenShot 
     Below image is a preview of completed results
- <img src="assets/images/screenshot.png" alt="screenshot">
+ <img src="assets/screenshot.png" alt="screenshot">
 
  ### Developer Story
 
